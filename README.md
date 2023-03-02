@@ -3,4 +3,4 @@
 This is my first HTML project about recipes.
 I will demonstrate very basic HTML skills.
 
-Today I'll add some basic styles to the project using CSS.
+16/02/2023 - Added some basic styles to the project using CSS.
